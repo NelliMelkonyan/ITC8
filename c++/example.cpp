@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main() {
-	std::cout << "Hello world!!!" << std::endl;
+	int number = 10;
+	bool t = true;
 	return 0;
 }
