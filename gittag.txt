@@ -1,0 +1,27 @@
+tag v1.3
+Tagger: Nelli <nelli.melkonyan.97@mail.ru>
+Date:   Thu May 4 21:32:12 2017 +0300
+
+my version 1.4
+
+commit f28f41ff448afe36e29d6dfb809a2249ece90006
+Merge: 4c19b06 58e8a04
+Author: Nelli <nelli.melkonyan.97@mail.ru>
+Date:   Thu May 4 21:11:28 2017 +0300
+
+    kkk
+
+diff --cc README.md
+index c16ea06,917e1ab..ba71cda
+--- a/README.md
++++ b/README.md
+@@@ -1,4 -1,4 +1,9 @@@
+  # ITC8
+  Learn
+++<<<<<<< HEAD
+ +
+ +kjgkfh
+++=======
++ hello hi
++ hello everyone
+++>>>>>>> 58e8a0419c801b7136fb8cbfbf9cb44a57a22dd3
